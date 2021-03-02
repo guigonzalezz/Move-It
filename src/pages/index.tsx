@@ -6,6 +6,7 @@ import { Countdown } from '../components/Countdown';
 import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from '../components/Profile';
 import { ChallengeBox } from '../components/ChallengeBox';
+import { MenuBar} from '../components/MenuBar';
 
 
 
@@ -27,6 +28,7 @@ export default function Home(props) {
       currenteExperience={props.currenteExpeience} 
       challengesCompleted={props.challengesCompleted}
     >
+      <MenuBar />
       <div className={styles.container}>
         <Head>
           <title>Inicio | move.it</title>

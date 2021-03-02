@@ -1,0 +1,27 @@
+.menuBar {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 80px;
+    background: linear-gradient( white 20%, #ececec 100%,#c5c4c4 100%);
+}
+
+.menuBar img:first-child {
+    margin-top: 30px;
+}
+
+.menuBar img:nth-child(2) {
+    height: 65px;
+    object-fit: none;
+    margin-top: 350px;
+    cursor: pointer;
+}
+
+.menuBar img:nth-child(3) {
+    height: 65px;
+    object-fit: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
