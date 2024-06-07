@@ -2,13 +2,13 @@
 <div align="center">
   <h1>:rocket: Move It  </h1>
   <h2>Next Level Week #4</h2>
-  <p align="left">Projeto desenvolvido na semana Next Level Week da Rocketseat, proposta deste projeto seria desenvolver um Pomodoro Timer utilizando ReactJS.</p>
+  <p align="left">Project developed during Rocketseat's Next Level Week, the proposal of this project was to create a Pomodoro Timer using ReactJS.</p>
 
 </div>
 
 <hr/>
 
-## Tecnologias Utilizadas
+## Technologies Used
 - **Javascript**
 - **Typescript**
 - **ReactJS**
@@ -17,4 +17,4 @@
 <hr/>
 
 ## Giving feedback
-Feedback é sempre bem-vindo, se você tiver qualquer sugestão ou duvida por favor me enviar um e-mail: gcgonzalez99@hotmail.com
+Feedback is always welcome. If you have any suggestions or questions, please feel free to send me an email: gcgonzalez99@hotmail.com
